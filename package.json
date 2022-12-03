@@ -1,10 +1,10 @@
 {
-  "name": "react-native-honeywell-scanner-v3",
+  "name": "react-native-honeywell-scanner-ct60",
   "description": "A barcode scanner for Honeywell handheld devices updated to support CT60 devices",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Chris Foy <rockman4417>",
-  "repository": "rockman4417/react-native-honeywell-scanner-v3",
+  "repository": "rockman4417/react-native-honeywell-scanner-ct60",
   "keywords": [
     "honeywell",
     "barcode",
